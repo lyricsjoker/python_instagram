@@ -1,5 +1,5 @@
 
-## Introduction
+## Introduction of the project
  This project is create to learn python. 
  
 Origin from 
@@ -17,7 +17,7 @@ Origin from
 ## Commands
 Operate System: MacOS
 
-### 1.Install python and  related tools.
+### 1.how to install python and  related tools.
 
 Download and install newest python from [Python](Python.org).
 
